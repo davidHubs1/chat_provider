@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         theme: AppTheme(colorSelected: 2).theme(),
-        title: 'Yes no App ',
+        title: 'Yes no Apps ',
         home: const ChatScreenBubble(),
       ),
     );
